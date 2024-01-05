@@ -2,7 +2,7 @@ repo_name: bhimjipatel/esp32
 report_id: 61d91c10375475215088eb9a12bcf5e8
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-19T07:17:18+00:00'
+timestamp: '2024-01-05T08:20:10+00:00'
 requested_by: bhimjipatel
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/bhimjipatel/esp32
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -25,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/bhimjipatel/esp32
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -35,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/bhimjipatel/esp32
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -44,6 +47,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/bhimjipatel/esp32/blob/main/CMakeLists.txt
   detection_source: CMakeLists.txt
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-12-10 06:04:59.000000000 Z
@@ -55,6 +59,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/bhimjipatel/esp32
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -64,6 +69,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/bhimjipatel/esp32
   detection_source: Repo Metadata
 - name: LangChain
   description: Build AI apps with LLMs through composability
@@ -73,6 +79,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/bhimjipatel/esp32/blob/main/CMakeLists.txt
   detection_source: CMakeLists.txt
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-12-10 06:04:59.000000000 Z
